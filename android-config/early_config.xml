@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configs>
+   <string-array name="config_packagesBlacklist">
+      <item>com.google.android.music</item>
+      <item>com.sony.snei.np.android.account</item>
+      <item>com.sonymobile.mx.android</item>
+      <item>com.culver_digital.privilegeplus</item>
+      <item>com.spotify.music</item>
+      <item>com.android.cellbroadcastreceiver</item>
+   </string-array>
+   <string-array name="config_packagesFullBlacklist">
+      <item>com.amazon.mShop.android.shopping</item>
+      <item>com.spotify.music</item>
+      <item>com.android.cellbroadcastreceiver</item>
+      <item>com.google.android.music</item>
+      <item>com.sony.snei.np.android.account</item>
+      <item>com.sonymobile.mx.android</item>
+      <item>com.culver_digital.privilegeplus</item>
+      <item>com.spotify.music</item>
+   </string-array>
+</configs>

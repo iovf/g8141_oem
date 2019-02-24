@@ -1,0 +1,39 @@
+######################## Customized property values #########################
+persist.vendor.data.ims_attach=true
+persist.data.ims_attach=true
+ro.nfc.icon.enable=true
+ro.vendor.semc.ecclist.num=8
+ro.vendor.semc.ecclist.type.0=marineguard
+ro.vendor.semc.ecclist.number.0=122
+ro.vendor.semc.ecclist.plmn.0=450 FFF
+ro.vendor.semc.ecclist.type.1=ambulance mountainrescue
+ro.vendor.semc.ecclist.number.1=117
+ro.vendor.semc.ecclist.plmn.1=450 FFF
+ro.vendor.semc.ecclist.type.2=firebrigade
+ro.vendor.semc.ecclist.number.2=119
+ro.vendor.semc.ecclist.plmn.2=450 FFF
+ro.vendor.semc.ecclist.type.3=ambulance firebrigade
+ro.vendor.semc.ecclist.number.3=111
+ro.vendor.semc.ecclist.plmn.3=450 FFF
+ro.vendor.semc.ecclist.type.4=police
+ro.vendor.semc.ecclist.number.4=112
+ro.vendor.semc.ecclist.plmn.4=450 FFF
+ro.vendor.semc.ecclist.type.5=police marineguard
+ro.vendor.semc.ecclist.number.5=125
+ro.vendor.semc.ecclist.plmn.5=450 FFF
+ro.vendor.semc.ecclist.type.6=police ambulance
+ro.vendor.semc.ecclist.number.6=113
+ro.vendor.semc.ecclist.plmn.6=450 FFF
+ro.vendor.semc.ecclist.type.7=police ambulance mountainrescue
+ro.vendor.semc.ecclist.number.7=118
+ro.vendor.semc.ecclist.plmn.7=450 FFF
+ro.operator.displayUnicodeName=true
+persist.sys.timezone=Asia/Shanghai
+ro.nfc.se.sim.enable=true
+ro.product.locale=zh-Hans-CN
+ro.telephony.default_network=9
+ro.cst.prm=1308-5292:R1C
+persist.radio.NO_STAPA=1
+persist.vendor.ims.no_stapa=1
+#############################################################################
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configs>
+   <string-array name="config_packagesBlacklist">
+      <item>com.scee.psxandroid</item>
+      <item>com.google.android.music</item>
+      <item>com.sony.snei.np.android.account</item>
+      <item>com.culver_digital.privilegeplus</item>
+      <item>com.spotify.music</item>
+      <item>com.facebook.katana</item>
+   </string-array>
+   <string-array name="config_packagesFullBlacklist">
+      <item>com.facebook.katana</item>
+      <item>com.scee.psxandroid</item>
+      <item>com.google.android.music</item>
+      <item>com.sony.snei.np.android.account</item>
+      <item>com.culver_digital.privilegeplus</item>
+      <item>com.spotify.music</item>
+   </string-array>
+</configs>
