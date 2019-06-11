@@ -37,5 +37,6 @@ ro.nfc.se.sim.enable=true
 ro.product.locale=zh-Hans-CN
 ro.telephony.default_network=9
 ro.cst.prm=1308-5292:R1C
+ro.nfc.icon.enable=false
 #############################################################################
 

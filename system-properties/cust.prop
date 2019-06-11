@@ -1,4 +1,4 @@
-ro.build.description=G8141-user 9 47.2.A.8.24 1055221078 release-keys
+ro.build.description=G8141-user 9 47.2.A.10.62 2758501761 release-keys
 
 ro.product.brand=Sony
 ro.product.vendor.brand=Sony
@@ -6,11 +6,11 @@ ro.product.name=G8141
 ro.product.vendor.name=G8141
 ro.product.device=G8141
 ro.product.vendor.device=G8141
-ro.build.version.incremental=1055221078
+ro.build.version.incremental=2758501761
 ro.build.tags=release-keys
-ro.build.fingerprint=Sony/G8141/G8141:9/47.2.A.8.24/1055221078:user/release-keys
-ro.vendor.build.fingerprint=Sony/G8141/G8141:9/47.2.A.8.24/1055221078:user/release-keys
-ro.bootimage.build.fingerprint=Sony/G8141/G8141:9/47.2.A.8.24/1055221078:user/release-keys
+ro.build.fingerprint=Sony/G8141/G8141:9/47.2.A.10.62/2758501761:user/release-keys
+ro.vendor.build.fingerprint=Sony/G8141/G8141:9/47.2.A.10.62/2758501761:user/release-keys
+ro.bootimage.build.fingerprint=Sony/G8141/G8141:9/47.2.A.10.62/2758501761:user/release-keys
 
 ######################## Customized property values #########################
 ro.semc.version.cust=1308-5292

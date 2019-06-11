@@ -1,7 +1,7 @@
 ######################## Customized property values #########################
 persist.vendor.data.ims_attach=true
 persist.data.ims_attach=true
-ro.nfc.icon.enable=true
+ro.nfc.icon.enable=false
 ro.vendor.semc.ecclist.num=8
 ro.vendor.semc.ecclist.type.0=marineguard
 ro.vendor.semc.ecclist.number.0=122
